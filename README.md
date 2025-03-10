@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=4f86f7&height=100&section=header&text=Hyunter%20Github&fontSize=30&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyunter%20Github&fontSize=50&animation=twinkling" />
 </p>
 
 <!-- Body -->
