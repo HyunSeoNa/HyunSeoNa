@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 <!-- Body -->
 <!-- About Me -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=06060685&vCenter=true&width=150&height=45&lines=👀About+Me" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7F7F7&background=000000CF&vCenter=true&width=200&height=45&lines=👀About+Me" alt="Typing SVG" /></a>
 <!-- Chennel -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=06060685&vCenter=true&width=150&height=45&lines=📌Chennel" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7F7F7&background=000000CF&vCenter=true&width=200&height=45&lines=📌Chennel" alt="Typing SVG" /></a>
 
 
 <!-- Teck Stack -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=06060685&vCenter=true&width=150&height=45&lines=🚀Tech+Stack" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7F7F7&background=000000CF&vCenter=true&width=200&height=45&lines=🚀Tech+Stack" alt="Typing SVG" /></a>
 
 <!-- Badge -->
 <p>
@@ -54,5 +54,5 @@ Here are some ideas to get you started:
 </p>
 
 <!-- Education & Certification -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=06060685&vCenter=true&width=340&height=45&lines=✏️Education+%26+Certification" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7F7F7&background=000000CF&vCenter=true&width=450&height=45&lines=✏️Education+%26+Certification" alt="Typing SVG" /></a>
 
