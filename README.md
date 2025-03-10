@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **HyunSeoNa/HyunSeoNa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=4f86f7&height=200&section=header&text=Hyunter%20Github&fontSize=50&animation=twinkling" />
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=4f86f7&height=300&section=header&text=Hyunter%20Github&fontSize=60" />
+
