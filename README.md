@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <!-- Teck Stack -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=06060685&vCenter=true&width=150&height=35&lines=🚀Tech+Stack" alt="Typing SVG" /></a>
 <!-- Spring Boot Badge -->
-<img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Spring Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 
@@ -39,10 +39,14 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=Spring Boot&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat-square&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/subversion-809CC9?style=flat-square&logo=Spring Boot&logoColor=white"/>
 
 
 ## Studying
-<img src="https://img.shields.io/badge/figma-#F24E1E?style=flat-square&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=Spring Boot&logoColor=white"/>
 
 
 <!-- Education & Certification -->
