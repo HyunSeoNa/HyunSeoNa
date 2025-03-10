@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 <!-- Body -->
 <!-- About Me -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7F7F7&background=000000CF&vCenter=true&width=200&height=40&lines=👀About+Me" alt="Typing SVG" /></a>
-
+* 경기대학교 컴퓨터과학 전공
+  * 2011.03 ~ 2016.02
+  * 학점 : 4.15 / 4.5
 <!-- Chennel -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7F7F7&background=000000CF&vCenter=true&width=200&height=40&lines=📌Chennel" alt="Typing SVG" /></a>
 * <b>Blog</b> : https://blog.naver.com/healim0216
