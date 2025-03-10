@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 <!-- Education & Certification -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7F7F7&background=000000CF&vCenter=true&width=350&height=30&lines= ✏️Education+%26+Certification" alt="Typing SVG" /></a>
 * 정보처리기사
-* 
+* 99클럽 5기 (2025.01.13 ~ 2025.02.24)
