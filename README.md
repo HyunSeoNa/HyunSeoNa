@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=4f86f7&height=300&section=header&text=Hyunter%20Github&fontSize=60" />
