@@ -23,9 +23,12 @@ Here are some ideas to get you started:
 <!-- Body -->
 <!-- About Me -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7F7F7&background=000000CF&vCenter=true&width=200&height=45&lines=👀About+Me" alt="Typing SVG" /></a>
-<!-- Chennel -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7F7F7&background=000000CF&vCenter=true&width=200&height=45&lines=📌Chennel" alt="Typing SVG" /></a>
 
+<!-- Chennel -->
+<div id="chennel">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7F7F7&background=000000CF&vCenter=true&width=200&height=45&lines=📌Chennel" alt="Typing   SVG" /></a>
+  * [Blog]
+</div>
 
 <!-- Teck Stack -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7F7F7&background=000000CF&vCenter=true&width=200&height=45&lines=🚀Tech+Stack" alt="Typing SVG" /></a>
@@ -51,6 +54,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white"/>
 </p>
 
 <!-- Education & Certification -->
