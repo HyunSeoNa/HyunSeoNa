@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Header -->
 <div id="header">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=4B89DC&text=Hyunter%20GitHub&reversal=false&textBg=false&fontSize=35&fontAlign=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4B89DC&text=Hyunter%20GitHub&reversal=false&textBg=false&fontSize=35&fontAlign=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
 </div>
 
 <!-- Body -->
