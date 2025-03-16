@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 | <b>Blog</b> | https://blog.naver.com/healim0216 |
 | <b>Mail</b> | nahs3467@gmail.com |
 | <b>GitHub</b> | https://github.com/HyunSeoNa |
+| <b>Notion</b> | [Notion Link](https://nblacka.notion.site/Hyunter-s-Portfolio-1b6f18cfba77803b99bfd072715a0714?pvs=4)
 <br/>
 
 <!-- Teck Stack -->
