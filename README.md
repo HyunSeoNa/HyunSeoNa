@@ -52,3 +52,11 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7F7F7&background=000000CF&vCenter=true&width=350&height=30&lines= ✏️Education+%26+Certification" alt="Typing SVG" /></a>
 * 정보처리기사
 * 99클럽 5기 (2025.01.13 ~ 2025.02.24)
+</br>
+
+<!-- Project -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7F7F7&background=000000CF&vCenter=true&width=200&height=30&lines= 🎯Project" alt="Typing SVG" /></a>
+| Project | Link |
+|---|---|
+| NB-IoT 서비스 서버 | [🔗](project-01-nbiot-service-server.md) |
+| 단말기 이력 관리 WEB | [🔗](project-02-nbiot-as-web.md) |
